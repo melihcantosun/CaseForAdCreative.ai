@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Zayıflıklar
 
 Tekli sunucu senaryosu için Memcache (Sunucu bellek içi depolama), dağıtık sunucu senaryosu için Redis çözümleri kullanılmıştır.
@@ -32,6 +31,3 @@ Bu durumlar, tekrarlı kayıtlar, gecikmeler, veri tutarsızlıkları ve servisi
     - Veritabanı erişimi sağlanıp veritabanında kontrol edilebilir.
     - Veritabanı erişimi sağlanamıyorsa, servisin çalıştığı sunucuda disk üzerinde içerik tutularak kontrol sağlanabilir.
 - **Performans ve Veri Bütünlüğü:** Performans açısından Memcache tercih edilebilir, ancak veri bütünlüğü, yönetilebilirlik ve izlenebilirlik gibi faydalar sağlayan Redis ile daha yönetilebilir bir servis yazılabilir. Bu, servisin hızlı, tutarlı, hataya daha az sebebiyet veren ve hata ayıklamada kolaylık sağlayan bir yapıda olmasını sağlar.
-=======
-# CaseForAdCreative.ai
->>>>>>> 385d742da2c1ca871b51ce29cd50c9266d8ca768
